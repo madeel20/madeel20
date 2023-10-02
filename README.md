@@ -1,6 +1,6 @@
-<h1>Hi, I'm <a target="_blank" href="https://www.smadeel.com/">Adeel 👋</a> </h1>
+<h1>Hi there, meet <a target="_blank" href="https://www.smadeel.com/">Adeel 👋</a> </h1>
 
-<h2> About Me</h2>
+<h2> About him</h2>
 <i>
   With more than five years of experience as a front-end engineer, Adeel brings a wealth of expertise to the table.
 He is proficient in React, Typescript, Next js, Redux, TailwindCSS & a wide range of technologies. 
