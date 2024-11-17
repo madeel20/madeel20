@@ -1,37 +1,43 @@
-<h1>Hi there, meet <a target="_blank" href="https://www.smadeel.com/">Adeel 👋</a> </h1>
+# 👋 Hi, I'm Sheikh Muhammad Adeel!  
+I’m a Senior Frontend Engineer at **Slidez**, where I lead the development of cutting-edge AI-powered presentation tools. With 6+ years of experience in frontend development, I specialize in creating seamless user interfaces for SaaS, B2C, and B2B applications.
 
-<h2> About him</h2>
-<i>
-  With more than five years of experience as a front-end engineer, Adeel brings a wealth of expertise to the table.
-He is proficient in React, Typescript, Next js, Redux, TailwindCSS & a wide range of technologies. 
-  
-He has worked on 15+ projects in his career. Some of the highlights of his portfolio can be explored here: <a target="_blank" href="https://www.smadeel.com/portfolio"> Portfolio Highlights</a>
+## About Me  
+My journey in tech began with a passion for crafting intuitive and scalable web applications. Over the years, I've developed expertise in building robust, user-friendly interfaces while driving impactful projects in the software industry. I thrive in collaborative environments where I can mentor teammates, solve complex problems, and deliver meaningful software solutions.
 
-He recently worked with Propertiflow.com to develop their Next js app. He resolved 20+ critical bugs in the prod env. He added 5+ major features and contributed to 5+ major releases. More about this project can viewed on smadeel.com/portfolio.
+## Technical Skills 🛠️  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Vue.js, AngularJS  
+- **Frontend Tools:** Tailwind CSS, Ant Design, Chakra UI, Craft.js, Lexical.dev  
+- **Backend & Cloud:** Firebase, AWS, Google Cloud, Firestore, MongoDB, MySQL  
+- **DevOps & Workflows:** Micro Frontends, Docker, CI/CD Pipelines, GitHub Actions  
+- **AI & UX:** LLM Integration, AI Content Generation, Responsive Design  
 
-He worked with Cloudways.com to create their new Unified UX platform. He developed 4+ micro-frontend apps using Module Federation and React js. He worked with 10+ front-end engineers and mentored them in their journey. He developed 4+ major and complex features.
+## Key Projects 📚  
+- **[Slidez](https://slidez.ai):**  
+  Built an AI-powered presentation platform in 3 months using React, TypeScript, Craft.js, and Firebase. Developed scalable, customizable features integrating AI-driven content generation and rich text editing.
 
-He worked with Cloudways.com for Responsive Web design in their new Unified UX platform. He initiated the conversion by first writing some useful utilities functions & hooks that can be easily used by other team members. He contributed to 5+ features to make them mobile compatible. 
+- **[Client Billing](https://cloudways.com/en/client-billing.php):**  
+  Led the development of a microfrontend application driving 500+ subscriptions in a month. Delivered high-quality APIs, pixel-perfect UI, and seamless API integrations.
 
-He worked with Cloudnosys.com as a full-stack developer. During this period he was able to work on Firebase services like Firestore, Authentication, and Firebase Storage, and also work on Cloud functions using Node.js. He also worked heavily on React, State management, API integrations as well. He became an expert in Firebase & its integrations with the React js application.
+- **[Cloudways Unified UX Platform](https://cloudways.com/blog/unified-simplicity/):**  
+  Spearheaded the development of a unified UX platform, significantly improving UI scalability and performance. Set up CI/CD pipelines and performed rigorous code reviews to ensure high-quality releases.
 
-He worked with prodoo.com to develop their main landing page on Next.js, React, SCSS, AntDesign, and Redux. He successfully delivered the new landing page by adding 8+ pixel-perfect different pages, REST API Integrations, and Authentication integration. It is live on: prodoo.com
+- **[Propertiflow](https://propertiflow.com):**  
+  Enhanced legal case management and document automation using React, TypeScript, and Next.js.  
 
-He worked with prodoo.com to develop 4+ new features in their User Dashboard built on React js. He successfully built & delivered 5+ new features with pixel-perfect designs & API integrations. He resolved 8+ major bugs in the system while working on the User Dashboard. He also suggested major improvements in the code base & collaborated with other team members effectively.
+## Leadership & Contributions 🌟  
+- **Mentorship:** Guided team members at Slidez and DigitalOcean to enhance their technical skills and project ownership.  
+- **Community Engagement:** Regularly collaborate with tech communities to share knowledge and contribute to open-source projects.  
+- **Recognition:** Received "Best Performer of the Quarter" awards twice at DigitalOcean for outstanding contributions.  
 
-Adeel is a team player and can work with cross-functional teams.
-</i>
-<!--
-**madeel20/madeel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Goals 🚀  
+- **Impactful Development:** Build software solutions that address real-world challenges and deliver exceptional user experiences.  
+- **Continuous Learning:** Stay ahead in the ever-evolving tech landscape by mastering emerging tools and technologies.  
+- **Team Building:** Foster collaborative environments that drive innovation and empower teams to succeed.  
 
-Here are some ideas to get you started:
+## Connect with Me 📬  
+- 🔗 [LinkedIn](https://linkedin.com/in/s-m-adeel-9050b7178)  
+- 🌐 [Portfolio](https://smadeel.com/portfolio)  
+- 📫 [Email](mailto:smaa.link@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excited to collaborate on projects at the intersection of technology and innovation. Let’s connect! 🌍  
