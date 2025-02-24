@@ -14,6 +14,7 @@ My journey in tech began with a passion for crafting intuitive and scalable web 
 
 ## Key Projects 📚  
 - **[Slidez](https://slidez.ai):**
+
   More Info: www.smadeel.com/portfolio/21
   Built an AI-powered presentation platform in 3 months using React, TypeScript, Craft.js, and Firebase. Developed scalable, customizable features integrating AI-driven content generation and rich text editing.
 
