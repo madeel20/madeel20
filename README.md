@@ -18,15 +18,20 @@ My journey in tech began with a passion for crafting intuitive and scalable web 
   - Built an AI-powered presentation platform in 3 months using React, TypeScript, Craft.js, and Firebase. Developed scalable, customizable features integrating AI-driven content generation and rich text editing.
 
 - **[Cloudnosys](https://cloudnosys.com):**
-  More Info: www.smadeel.com/portfolio/2
-  Contributed to 5 major releases of Cloudnosys' security tool, enhancing vulnerability detection for AWS, GCP, and Azure resources.
-  Developed Inventory feature to streamline tracking of cloud resources, using React, Firestore, and Firebase Cloud Functions. Fixed critical backend bugs and improved performance and scalability.
+  - More Info: www.smadeel.com/portfolio/2
+  - Contributed to 5 major releases of Cloudnosys' security tool, enhancing vulnerability detection for AWS, GCP, and Azure resources.
+  - Developed Inventory feature to streamline tracking of cloud resources, using React, Firestore, and Firebase Cloud Functions. Fixed critical backend bugs and improved performance and scalability.
 
 - **[Cloudways Unified UX Platform](https://cloudways.com/blog/unified-simplicity/):**  
-  Spearheaded the development of a unified UX platform, significantly improving UI scalability and performance. Set up CI/CD pipelines and performed rigorous code reviews to ensure high-quality releases.
+  - More Info: www.smadeel.com/portfolio/19
+  - Led a Unified UX project, improving UI scalability with Webpack Module Federation, React, Redux Toolkit, TailwindCSS, Typescript & Charts. Developed key features and implemented CI/CD pipelines.
+  - Managed code reviews, React integrations, and beta testing.
 
 - **[Propertiflow](https://propertiflow.com):**  
-  Enhanced legal case management and document automation using React, TypeScript, and Next.js.  
+  - More Info: www.smadeel.com/portfolio/16
+  - Developed features using React, Next.js, TypeScript, Chakra UI, and Firebase.
+  - Streamlined legal case management and document automation.
+  - Collaborated on features technical scoping, their implementation and platform improvements.
 
 ## Leadership & Contributions 🌟  
 - **Mentorship:** Guided team members at Slidez and DigitalOcean to enhance their technical skills and project ownership.  
