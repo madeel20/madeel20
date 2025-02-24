@@ -13,11 +13,14 @@ My journey in tech began with a passion for crafting intuitive and scalable web 
 - **AI & UX:** LLM Integration, AI Content Generation, Responsive Design  
 
 ## Key Projects 📚  
-- **[Slidez](https://slidez.ai):**  
+- **[Slidez](https://slidez.ai):**
+  More Info: www.smadeel.com/portfolio/21
   Built an AI-powered presentation platform in 3 months using React, TypeScript, Craft.js, and Firebase. Developed scalable, customizable features integrating AI-driven content generation and rich text editing.
 
-- **[Client Billing](https://cloudways.com/en/client-billing.php):**  
-  Led the development of a microfrontend application driving 500+ subscriptions in a month. Delivered high-quality APIs, pixel-perfect UI, and seamless API integrations.
+- **[Cloudnosys](https://cloudnosys.com):**
+  More Info: www.smadeel.com/portfolio/2
+  Contributed to 5 major releases of Cloudnosys' security tool, enhancing vulnerability detection for AWS, GCP, and Azure resources.
+  Developed Inventory feature to streamline tracking of cloud resources, using React, Firestore, and Firebase Cloud Functions. Fixed critical backend bugs and improved performance and scalability.
 
 - **[Cloudways Unified UX Platform](https://cloudways.com/blog/unified-simplicity/):**  
   Spearheaded the development of a unified UX platform, significantly improving UI scalability and performance. Set up CI/CD pipelines and performed rigorous code reviews to ensure high-quality releases.
